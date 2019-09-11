@@ -1,0 +1,6 @@
+01_SelectOneWeek/input/green_tripdata_2018-10.csv
+01_SelectOneWeek/input/yellow_tripdata_2018-10.csv
+01_SelectOneWeek/output/SelectedGreenTrips_181015_181021.csv
+01_SelectOneWeek/output/SelectedYellowTrips_181015_181021.csv
+02_PaymentAnalysis/output/LisaGreenTaxisCash.pdf
+02_PaymentAnalysis/output/LisaYellowTaxisCash.pdf
